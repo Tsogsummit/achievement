@@ -109,14 +109,14 @@ body{
 .button{
     position: absolute;
     top: 20%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
     transform: translate(0%,0%);
 }
 
 .btn-1 , .btn-2 , .btn-3 , .btn-4{
     border: 1px solid white;
-    padding: 10px 155px;
+    padding: 10px 200px;
     color: white;
     text-decoration: none;
     margin-right:   5px;
